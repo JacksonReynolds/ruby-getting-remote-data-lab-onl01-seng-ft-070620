@@ -6,7 +6,7 @@ require 'pry'
 class GetRequester
 
   def initialize(url)
-    
+
   end #initialize
 
 end #GetRequester
